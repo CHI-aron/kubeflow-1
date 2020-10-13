@@ -1,1 +1,1 @@
-from quay.io/kubeflow/profile-controller:v0.7.0
+from gcr.io/kubeflow-images-public/kfam:v1.0.0-gf3e09203
