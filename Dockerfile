@@ -1,1 +1,1 @@
-from gcr.io/ml-pipeline/viewer-crd-controller:0.2.5
+from quay.io/kubeflow/profile-controller:v0.7.0
