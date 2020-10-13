@@ -1,1 +1,1 @@
-from registry.redhat.io/rhscl/mysql-80-rhel7:latest
+from gcr.io/kubeflow-images-public/katib/v1alpha3/katib-ui:v0.8.0
