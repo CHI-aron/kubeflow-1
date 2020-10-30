@@ -1,1 +1,1 @@
-from gcr.io/kubeflow-images-public/kubernetes-sigs/application:1.0-beta
+from cr.io/istio-release/citadel:release-1.3-latest-daily
