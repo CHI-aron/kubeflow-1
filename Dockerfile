@@ -1,1 +1,1 @@
-from gcr.io/istio-release/node-agent-k8s:release-1.3-latest-daily
+from gcr.io/kubeflow-images-public/kubernetes-sigs/application:1.0-beta
