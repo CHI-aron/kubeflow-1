@@ -1,1 +1,1 @@
-from gcr.io/istio-release/citadel:release-1.3-latest-daily
+from rancher/local-path-provisioner:v0.0.18
