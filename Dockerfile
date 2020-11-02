@@ -1,1 +1,1 @@
-from docker.io/seldonio/seldon-core-operator:1.2.1
+from rancher/local-path-provisioner:v0.0.18
