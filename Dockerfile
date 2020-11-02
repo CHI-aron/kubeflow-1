@@ -1,1 +1,1 @@
-from rancher/local-path-provisioner:v0.0.18
+from gcr.io/istio-release/galley:release-1.3-latest-daily
