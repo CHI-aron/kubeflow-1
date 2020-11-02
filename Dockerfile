@@ -1,1 +1,1 @@
-from kubeflow/mxnet-operator:v1.0.0-20200625
+from metacontroller/metacontroller:v0.3.0
