@@ -1,1 +1,1 @@
-from gcr.io/kubeflow-images-public/ingress-setup:latest
+from gcr.io/kubeflow-images-public/jupyter-web-app:vmaster-gd9be4b9e
