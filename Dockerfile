@@ -1,1 +1,1 @@
-from gcr.io/ml-pipeline/mysql:5.6
+from gcr.io/ml-pipeline/persistenceagent:1.0.0
