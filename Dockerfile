@@ -1,1 +1,1 @@
-from gcr.io/ml-pipeline/cache-server:1.0.0
+from gcr.io/ml-pipeline/frontend:1.0.0
