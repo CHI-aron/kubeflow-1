@@ -1,1 +1,1 @@
-from gcr.io/istio-release/proxy_init:release-1.3-latest-daily
+from argoproj/workflow-controller:v2.3.0
