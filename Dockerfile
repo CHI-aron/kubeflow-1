@@ -1,1 +1,1 @@
-from mpioperator/mpi-operator:latest
+from python:3.7
