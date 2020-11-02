@@ -1,1 +1,1 @@
-from argoproj/argoui:v2.3.0
+from gcr.io/istio-release/proxy_init:release-1.3-latest-daily
