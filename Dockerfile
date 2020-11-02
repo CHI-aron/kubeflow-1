@@ -1,1 +1,1 @@
-from gcr.io/kubeflow-images-public/pytorch-operator:vmaster-gd596e904
+from gcr.io/kubeflow-images-public/tf_operator:vmaster-ga2ae7bff
