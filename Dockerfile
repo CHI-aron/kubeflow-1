@@ -1,1 +1,1 @@
-from gcr.io/kubeflow-images-public/katib/v1alpha3/katib-ui:917164a
+from gcr.io/istio-release/mixer:release-1.3-latest-daily
