@@ -1,1 +1,1 @@
-from rancher/local-path-provisioner:v0.0.18
+from busybox
