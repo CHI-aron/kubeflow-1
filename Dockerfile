@@ -1,1 +1,1 @@
-from python:3.7
+from rancher/local-path-provisioner:v0.0.18
