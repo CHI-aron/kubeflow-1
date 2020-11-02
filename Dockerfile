@@ -1,1 +1,1 @@
-from gcr.io/kubeflow-images-public/katib/v1alpha3/katib-db-manager:917164a
+from gcr.io/kubeflow-images-public/kfam:v1.1.0-g9f3bfd00
