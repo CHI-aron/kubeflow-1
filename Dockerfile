@@ -1,1 +1,1 @@
-from gcr.io/ml-pipeline/api-server:1.0.0
+from gcr.io/ml-pipeline/cache-deployer:1.0.0
