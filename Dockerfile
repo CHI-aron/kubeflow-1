@@ -1,1 +1,1 @@
-from gcr.io/ml-pipeline/frontend:1.0.0
+from gcr.io/ml-pipeline/metadata-writer:1.0.0
