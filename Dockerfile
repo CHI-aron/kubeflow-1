@@ -1,1 +1,1 @@
-from gcr.io/kubeflow-images-public/kubernetes-sigs/application:1.0-beta
+from gcr.io/kubeflow-images-public/notebook-controller:vmaster-gf39279c0
