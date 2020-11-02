@@ -1,1 +1,1 @@
-from gcr.io/kubeflow-images-public/admission-webhook:vmaster-gaf96e4e3
+from gcr.io/kubeflow-images-public/centraldashboard:vmaster-gf39279c0
