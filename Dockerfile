@@ -1,1 +1,1 @@
-from gcr.io/kubeflow-images-public/kfam:v1.1.0-g9f3bfd00
+from gcr.io/kubeflow-images-public/kubernetes-sigs/application:1.0-beta
