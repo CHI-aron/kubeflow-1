@@ -1,1 +1,1 @@
-from gcr.io/knative-releases/knative.dev/serving/cmd/webhook@sha256:d07560cd5548640cc79abc819608844527351f10e8b0a847988f9eb602c18972
+from gcr.io/kubeflow-images-public/tensorflow-2.1.0-notebook-cpu:1.0.0
