@@ -1,1 +1,1 @@
-from k8s.gcr.io/coredns:1.6.2
+from gcr.io/kfserving/kfserving-controller:v0.3.0
