@@ -1,1 +1,1 @@
-from mysql:8.0.3
+from gcr.io/ml-pipeline/cache-deployer
