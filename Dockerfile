@@ -1,1 +1,1 @@
-from kubernetesui/metrics-scraper:v1.0.4
+from rhscl/postgresql-96-rhel7:latest
