@@ -1,1 +1,1 @@
-from rhscl/postgresql-96-rhel7:latest
+from k8s.gcr.io/metrics-server/metrics-server:v0.4.0
