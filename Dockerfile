@@ -1,1 +1,1 @@
-from jettech/kube-webhook-certgen:v1.2.1
+from quay.io/coreos/prometheus-operator:v0.38.1
