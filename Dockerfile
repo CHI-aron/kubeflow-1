@@ -1,1 +1,1 @@
-from k8s.gcr.io/metrics-server/metrics-server:v0.4.0
+from jettech/kube-webhook-certgen:v1.2.1
