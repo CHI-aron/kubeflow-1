@@ -1,1 +1,1 @@
-from quay.io/prometheus/prometheus:v2.18.2
+from quay.io/coreos/prometheus-config-reloader:v0.38.1
