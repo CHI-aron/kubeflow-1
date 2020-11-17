@@ -1,1 +1,1 @@
-from quay.io/coreos/prometheus-config-reloader:v0.38.1
+from gcr.io/ml-pipeline/cache-deployer:1.0.0
