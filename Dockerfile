@@ -1,1 +1,1 @@
-from gcr.io/ml-pipeline/cache-deployer:1.0.0
+from quay.io/external_storage/rbd-provisioner:latest
